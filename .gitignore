@@ -1,0 +1,6 @@
+*.csv
+.DS_Store
+omi_converted_data/*
+omi_data/*
+.idea/*
+*.pyc

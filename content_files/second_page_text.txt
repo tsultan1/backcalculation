@@ -1,0 +1,19 @@
+Welcome to SO2 Vocanic Emission Calculator
+
+Step 1: It is required to register as a new user in Earthdata to access GES DISC data
+to download OMI data files 
+Go to Link: https://disc.gsfc.nasa.gov/data-access
+Click link Create an Earthdata acountand follow instructions
+Click Link GES DISC with your account and select the following applications:
+    NASA GESDISC DATA ARCHIVE, GES DISC, Earthdata Search
+
+
+Step 2: Simple Subset Wizard (SSW)
+Go to: https://disc.gsfc.nasa.gov/SSW/#keywords=OMSO2G
+Make sure the Data Set Keyword is: (OMSO2G)
+Select Data Range and Click Search for Data Sets
+In click down menu select ASCII instead of HDF-EOS5
+Then check box to left of Subset: Variables for OMSO2G v003 in ASCII
+Click Subset Selected Data Sets
+Once that is completed click white arrow in green circle or View Subset Results
+Click on the link and download (the download must be ~1 GB)
